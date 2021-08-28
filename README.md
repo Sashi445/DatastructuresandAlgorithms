@@ -7,4 +7,5 @@
 ####    Java
 
 *  [Selection Sort](Algorithms/Java/SelectionSort.java)
+*  [Bubble Sort](Algorithms/Java/BubbleSort.java)
   
