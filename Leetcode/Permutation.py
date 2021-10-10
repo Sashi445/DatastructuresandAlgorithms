@@ -1,6 +1,3 @@
-# problem - 46
-# https://leetcode.com/problems/permutations/
-
 class Solution:
     
     def helper(self, buffer, nums):

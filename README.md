@@ -1,5 +1,12 @@
 # Data structures and algorithms
 
+
+## Datastructures
+
+* [Binary Tree](Datastructures/BinaryTree.java)
+* [Binary Search Tree](Datastructures/BinarySearchTree.java)
+
+
 ## Algorithms : 
 
 ### Sorting Algoritms
@@ -11,6 +18,7 @@
 *  [Merge Sort](Algorithms/Java/MergeSort.java)
 
 ### Searching Algorithms
+
 
 #### Java
 
