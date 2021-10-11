@@ -5,7 +5,7 @@
 
 * [Binary Tree](Datastructures/BinaryTree.java)
 * [Binary Search Tree](Datastructures/BinarySearchTree.java)
-
+* [Max Heap](Datastructures/MaxHeap.java)
 
 ## Algorithms : 
 
@@ -16,6 +16,7 @@
 *  [Selection Sort](Algorithms/Java/SelectionSort.java)
 *  [Bubble Sort](Algorithms/Java/BubbleSort.java)
 *  [Merge Sort](Algorithms/Java/MergeSort.java)
+*  [Heap Sort](Datastructures/MaxHeap.java)
 
 ### Searching Algorithms
 
